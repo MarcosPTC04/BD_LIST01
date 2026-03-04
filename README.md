@@ -1,31 +1,43 @@
-📊 Projeto: Introdução ao MySQL
+## 📌 Descrição
 
-Este projeto demonstra conhecimentos fundamentais em modelagem e manipulação de bancos de dados relacionais utilizando MySQL.
+Este repositório contém a implementação de uma atividade prática introdutória em Banco de Dados utilizando MySQL.
 
-🎯 Objetivo
+O projeto foi desenvolvido com o objetivo de aplicar conceitos fundamentais de modelagem e manipulação de dados por meio de comandos SQL, conforme as orientações da atividade proposta.
 
-Aplicar conceitos essenciais de SQL por meio da criação e gerenciamento de um banco de dados simples, simulando um sistema de cadastro.
+---
 
-🧠 Conceitos Aplicados
+## 🛠 Recursos Utilizados
 
-Criação de banco de dados (CREATE DATABASE)
+Banco de Dados: MySQL
 
-Criação de tabelas (CREATE TABLE)
+Linguagem: SQL
 
-Inserção de registros (INSERT)
+IDE / Cliente SQL: MySQL Workbench
 
-Consultas e filtros (SELECT)
+Controle de versão: Git
 
-Alteração de estrutura (ALTER TABLE)
+Plataforma de hospedagem: GitHub
 
-Definição de chave primária
+---
 
-🛠️ Tecnologias
+## 📋 Estrutura do Projeto
 
-MySQL
+O projeto foi organizado seguindo os seguintes critérios:
 
-SQL
+Criação do banco de dados utilizando CREATE DATABASE.
 
-🚀 Resultados
+Criação de tabelas com definição de tipos de dados e chave primária.
 
-O projeto evidencia a capacidade de estruturar tabelas, organizar dados e realizar consultas básicas, demonstrando domínio inicial em bancos de dados relacionais e boas práticas de organização.
+Inserção de registros utilizando INSERT.
+
+Realização de consultas com SELECT.
+
+Alterações estruturais com ALTER TABLE.
+
+---
+
+## 👨‍💻 Autor
+
+Marcos Antonio
+Curso: Análise e Desenvolvimento de Sistemas
+Disciplina: Banco de Dados
